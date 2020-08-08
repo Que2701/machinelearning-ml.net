@@ -1,0 +1,10 @@
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\bin\Debug\netstandard2.0\MyMLAppML.Model.deps.json
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\bin\Debug\netstandard2.0\MyMLAppML.Model.dll
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\bin\Debug\netstandard2.0\MyMLAppML.Model.pdb
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.AssemblyInfoInputs.cache
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.AssemblyInfo.cs
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.dll
+D:\Source\Repos\Projects\machinelearning-ml.net\MyMLApp\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.pdb
